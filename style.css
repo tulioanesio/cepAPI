@@ -3,6 +3,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  margin: 320px;
+  align-items: center;
 }
 
 button {
